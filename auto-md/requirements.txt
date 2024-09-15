@@ -1,4 +1,4 @@
-tkinter
+tk
 pygit2
 chardet
 python-magic
