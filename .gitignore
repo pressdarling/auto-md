@@ -68,3 +68,6 @@ coverage.xml
 docs/_build
 
 .DS_Store
+webapp/__pycache__
+auto-md/__pycache__
+webapp/temp
